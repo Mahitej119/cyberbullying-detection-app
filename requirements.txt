@@ -1,5 +1,6 @@
-streamlit==1.54.0
+streamlit
 pandas
 nltk
-
 scikit-learn
+matplotlib
+seaborn
